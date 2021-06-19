@@ -10,6 +10,7 @@
     echo "This is php file";
     echo "</br/>";
     echo "Line is breaked now";
+    echo "This is updating from ssh authentication";
      ?>
   </body>
 </html>
