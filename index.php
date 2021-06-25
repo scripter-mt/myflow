@@ -8,12 +8,11 @@
     <h1>Hello Urba</h1>
     <img src="ocean.jpg" width="300" height="300">
     <h2>Do you wanna play game</h2>
+<audio controls>
+  <source src="lagjaa.mp3" type="mp3/mpeg">
 
+</audio>
 
-    echo "This is php file";
-    echo "</br/>";
-    echo "Line is breaked now";
-    echo "This is updating from ssh authentication";
-     ?>
+    
   </body>
 </html>
