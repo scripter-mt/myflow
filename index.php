@@ -10,8 +10,9 @@
     <h2>Do you wanna play game</h2>
 <audio controls>
   <source src="lagjaa.mp3" type="audio/mpeg">
-    <a href="lagjaa.mp3" download="download" >download</a>
+   
 </audio>
+     <a href="lagjaa.mp3" download="download" >download</a>
 
 
   </body>
